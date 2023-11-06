@@ -35,7 +35,7 @@ const Home = () => {
         >
           <img
             src={Logo}
-            alt="Logo Image"
+            alt="Logo"
             style={{
               width: "350px",
               height: "350px",
