@@ -2,4 +2,4 @@
 
 ## _Portfolio developed using Reactjs_
 
-[Click here for Live Demo](https://chitturi-naveenkumar.github.io/Portfolio-ReactJs/)
+[Click here for Live Demo](https://naveen-kumar-chitturi.netlify.app/)
